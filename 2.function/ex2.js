@@ -3,6 +3,11 @@
 โดยใช้ concept เรื่อง Function Expression 
 */
 
+let subtractByNumber = function(a, b) {
+    return a - b;
+}
+
+
 
 console.log(subtractByNumber(4,6)) // -2
-console.log(subtractByNumber(20,15)) //5
+console.log(subtractByNumber(20,15)) // 5
