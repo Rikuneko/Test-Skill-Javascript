@@ -3,6 +3,11 @@
 โดยใช้ concept เรื่อง Arrow Function 
 */
 
+let multiplyByNumber = (a, b) => {
+    return a * b
+}
+
+
 
 console.log(multiplyByNumber(2, 2)) // 4
 console.log(multiplyByNumber(10, 10)) //100
